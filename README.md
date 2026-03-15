@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastefy.app/Yn7dXqL9/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xspeedHub0/Zlhub/main/ZLPVPreview.lua"))()
